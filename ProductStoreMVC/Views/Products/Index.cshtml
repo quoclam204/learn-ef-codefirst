@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>@ViewData["Title"]</h2>
+    <a class="btn btn-primary" asp-action="Create">+ Thêm sản phẩm</a>
+</div>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col-auto">
+        <select name="categoryId" class="form-select" asp-items="ViewBag.Categories">
+            <option value="">-- Tất cả danh mục --</option>
+        </select>
+    </div>
+    <div class="col-auto">
+        <button class="btn btn-outline-secondary" type="submit">Lọc</button>
+    </div>
+</form>
+
+<table class="table table-striped align-middle">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Danh mục</th>
+            <th style="width:180px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>@p.Price.ToString("N0")</td>
+                <td>@p.Category?.Name</td>
+                <td class="text-end">
+                    <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@p.Id">Xem</a>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@p.Id">Sửa</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@p.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
