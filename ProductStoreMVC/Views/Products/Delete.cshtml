@@ -1,0 +1,19 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+<h2>@ViewData["Title"]</h2>
+<div class="alert alert-warning">Bạn chắc chắn muốn xóa <strong>@Model.Name</strong>?</div>
+
+<dl class="row">
+    <dt class="col-sm-2">Giá</dt>
+    <dd class="col-sm-10">@Model.Price.ToString("N0")</dd>
+    <dt class="col-sm-2">Danh mục</dt>
+    <dd class="col-sm-10">@Model.Category?.Name</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

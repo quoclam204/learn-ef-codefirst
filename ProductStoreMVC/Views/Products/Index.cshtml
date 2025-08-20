@@ -22,7 +22,7 @@
 <table class="table table-striped align-middle">
     <thead>
         <tr>
-            <th>#</th>
+            @* <th>#</th> *@
             <th>Tên</th>
             <th>Giá</th>
             <th>Danh mục</th>
@@ -33,7 +33,7 @@
         @foreach (var p in Model)
         {
             <tr>
-                <td>@p.Id</td>
+                @* <td>@p.Id</td> *@
                 <td>@p.Name</td>
                 <td>@p.Price.ToString("N0")</td>
                 <td>@p.Category?.Name</td>

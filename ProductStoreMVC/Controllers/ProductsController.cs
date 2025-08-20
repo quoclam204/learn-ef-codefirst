@@ -12,7 +12,7 @@ public class ProductsController : Controller
 
     public ProductsController(AppDbContext db) => _db = db;
 
-    // GET: /Products
+    // GET: /Products (Xem danh sách sản phẩm)
     public async Task<IActionResult> Index(int? categoryId)
     {
         var query = _db.Products.Include(p => p.Category).AsQueryable();
@@ -23,12 +23,17 @@ public class ProductsController : Controller
         return View(await query.OrderByDescending(p => p.Id).ToListAsync());
     }
 
-    // GET: /Products/Details/5
+    // GET: /Products/Details/5 (Xem chi tiết sản phẩm)
     public async Task<IActionResult> Details(int? id)
     {
-        if (id is null) return NotFound();
+        if (id is null) 
+            return NotFound();
+
         var product = await _db.Products.Include(p => p.Category).FirstOrDefaultAsync(p => p.Id == id);
-        if (product is null) return NotFound();
+
+        if (product is null) return 
+                NotFound();
+
         return View(product);
     }
 

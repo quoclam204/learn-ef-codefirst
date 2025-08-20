@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\migrations\\20250819100028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\migrations\\20250819100028_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|e:\\phattreinungdungweb-nangcao\\productstoremvc\\productstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EFB7E5-AD77-4D22-AC07-4BE01C089F63}|ProductStoreMVC\\ProductStoreMVC.csproj|solutionrelative:productstoremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 235,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,145 +54,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Models\\Product.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Models\\Product.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:58:47.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ProductStoreMVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:57:38.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Products\\Create.cshtml",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "ProductStoreMVC\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:35:56.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Products\\Index.cshtml",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "ProductStoreMVC\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:35:38.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProductStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T10:34:15.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:30:41.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250819100028_Init.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Migrations\\20250819100028_Init.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Migrations\\20250819100028_Init.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Migrations\\20250819100028_Init.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Migrations\\20250819100028_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:00:29.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Program.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Program.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Program.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:48:07.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\appsettings.json",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\appsettings.json",
-              "RelativeToolTip": "ProductStoreMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T09:46:13.572Z",
+              "WhenOpened": "2025-08-20T12:08:00.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:39:00.142Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ProductStoreMVC\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T12:07:02.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ProductStoreMVC\\Models\\Category.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Models\\Category.cs",
-              "RelativeToolTip": "ProductStoreMVC\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ProductStoreMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T12:02:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductStoreMVC\\Views\\Products\\Details.cshtml",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ProductStoreMVC\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T12:03:28.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductStoreMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\ProductStoreMVC\\ProductStoreMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductStoreMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:31:05.529Z",
+              "WhenOpened": "2025-08-20T11:41:13.218Z",
               "EditorCaption": ""
             }
           ]
